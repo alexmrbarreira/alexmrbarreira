@@ -2,9 +2,11 @@
 
 ### About me
 
-Working as an accomplished computational astrophysicist, I have over 10 years of experience with python, data cleaning/analysis, high-performance computing, developing mathematical models, analysing complex systems and extracting meaningful insights from large datasets. I published over 50 [research articles](https://inspirehep.net/authors/1274022?ui-citation-summary=true) in high-profile international journals, and gave over 80 talks at international conferences in 15 countries. My work covered topics as diverse as (i) theories of gravity beyond Einstein, (ii) analytical approaches to perturbation theory and data covariances, (iii) numerical techniques to simulate cosmic structure formation and (iv) the origin of structure in the Universe.
+Hi! My name is Alex Barreira and I am interested in utilizing my expertise in big data science and machine learning to solve business and industry problems. 
 
-I am now interested in utilizing my expertise in big data science and machine learning to solve business and industry problems. 
+In the past, working as an accomplished computational astrophysicist, I've acquired over 10 years of experience with python, data cleaning/analysis, high-performance computing, developing mathematical models, analysing complex systems and extracting meaningful insights from large datasets. 
+
+I published over 50 [research articles](https://inspirehep.net/authors/1274022?ui-citation-summary=true) in high-profile international journals, and gave over 80 talks at international conferences in 15 countries. My work covered topics as diverse as (i) theories of gravity beyond Einstein, (ii) analytical approaches to perturbation theory and data covariances, (iii) numerical techniques to simulate cosmic structure formation and (iv) the origin of structure in the Universe.
 
 ### This Github
 Here you can find a collection of repositories with projects on topics that I found interesting to dig in deeper at some point in time! Many codes used for my past astrophysics research could not be made public, but feel free to [contact me](https://www.linkedin.com/in/alexandre-barreira-367b68136/), if you want to learn more.
