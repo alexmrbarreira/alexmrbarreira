@@ -4,4 +4,4 @@ With over 10 years of experience as an accomplished computational astrophysicist
 
 I am now interested in utilizing my expertise in big data science to solve business and industry problems. 
 
-Here you can find a collection of repositories with projects
+Here you can find a collection of repositories with projects on different areas.
