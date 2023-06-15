@@ -1,8 +1,8 @@
-# Welcome!
+# Hello & Welcome!
 
 ### About me
 
-Hi! My name is Alex Barreira and I am interested in utilizing my expertise in big data science and machine learning to solve business and industry problems. 
+My name is Alex Barreira and I am interested in utilizing my expertise in big data science and machine learning to solve business and industry problems. 
 
 In the past, working as an accomplished computational astrophysicist, I've acquired over 10 years of experience with python, data cleaning/analysis, high-performance computing, developing mathematical models, analysing complex systems and extracting meaningful insights from large datasets. 
 
