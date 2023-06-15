@@ -1,7 +1,7 @@
 # Welcome!
 
 ### About me
-With over 10 years of experience as an accomplished computational astrophysicist, I published over 50 [research articles](https://inspirehep.net/authors/1274022?ui-citation-summary=true) in high-profile international journals, and gave over 80 talks at international conferences in 15 countries. My work covered topics as diverse as (i) theories of gravity beyond Einstein, (ii) new analytical approaches to perturbation theory and data covariances, (iii) new numerical techniques to simulate cosmic structure formation and (iv) observational tests of the origins of structure in the Universe.
+With over 10 years of experience as an accomplished computational astrophysicist, I published over 50 [research articles](https://inspirehep.net/authors/1274022?ui-citation-summary=true) in high-profile international journals, and gave over 80 talks at international conferences in 15 countries. My work covered topics as diverse as (i) theories of gravity beyond Einstein, (ii) new analytical approaches to perturbation theory and data covariances, (iii) new numerical techniques to simulate cosmic structure formation and (iv) the origin of structure in the Universe.
 
 I am now interested in utilizing my expertise in big data science and machine learning to solve business and industry problems. 
 
