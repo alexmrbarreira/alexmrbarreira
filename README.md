@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @alexmrbarreira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Welcome!
 
-<!---
-alexmrbarreira/alexmrbarreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With over 10 years of experience as an accomplished computational astrophysicist, I am now interested in utilizing my expertise in big data science to solve business and industry problems. 
+
+I published over 50 science publications in international journals, and gave over 80 talks at international conferences in 15 countries.
