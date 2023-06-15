@@ -1,4 +1,4 @@
-# Hello & Welcome!
+# Welcome!
 
 ### About me
 
