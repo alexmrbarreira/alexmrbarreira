@@ -4,7 +4,7 @@
 
 My name is Alex Barreira and I am interested in utilizing my expertise in big data science and machine learning to solve business and industry problems. 
 
-In the past, working as an accomplished computational astrophysicist, I've acquired over 10 years of experience with python, data cleaning/analysis, high-performance computing, developing mathematical models, analysing complex systems and extracting meaningful insights from large datasets. 
+In the past, working as an accomplished computational astrophysicist, I've acquired over 10 years of experience with python, data cleaning/analysis/visualization, developing mathematical models, high-performance computing, analysing complex systems and extracting meaningful insights from large datasets. 
 
 I published over 50 [research articles](https://inspirehep.net/authors/1274022?ui-citation-summary=true) in high-profile international journals, and gave over 80 talks at international conferences in 15 countries. My work covered topics as diverse as theories of gravity beyond Einstein's General Relativity, analytical approaches to data covariances, numerical techniques to simulate cosmic structure formation and the origin of structure in the Universe.
 
